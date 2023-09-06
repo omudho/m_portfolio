@@ -39,7 +39,7 @@ nav{
     position: fixed;
     top: 0;
     right: 0;
-    width: 857px;
+    width: 60%;
     height: 85px;
       }
 nav ul li{
@@ -163,7 +163,7 @@ background: url(./assets/Image\ 1.jpg);
 
   #rectangle25{
     position: absolute;
-    width: 320px;
+    width: 60%;
     height: 441px;
     left: 61px;
     top: 921px;
